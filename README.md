@@ -1,7 +1,7 @@
 Scripts para conversão e consolidação de dados de demanda da SPTrans
 ====================================================================
 
-![Logo colorido](logo_cores.png)
+![Logo colorido](logo-cores.png)
 
 Este repositório é um produto direto da [terceira edição do Hack in Sampa](http://www.saopaulo.sp.leg.br/blog/camara-municipal-sedia-3a-edicao-do-hack-in-sampa/), promovido pelo vereador Police Neto e apoiado por uma série de empresas e organizações.
 
