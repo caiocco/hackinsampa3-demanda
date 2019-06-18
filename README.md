@@ -21,4 +21,4 @@ Código licenciado sob a GPL versão 3.
 
 ------------------------------
 
-**Observação:** o logo utilizado é parte do projeto e foi desenvolvido por Wanessa Marcondes, responsável pela prototipagem da interface com o usuário .
+**Observação:** o logo utilizado é parte do projeto e foi desenvolvido por Wanessa Marcondes, responsável pela [prototipagem da interface com o usuário](https://www.figma.com/proto/SdDRWy6ODIlEWmiGs1V7C2TG/Hack-in-Sampa?node-id=0%3A1&scaling=min-zoom).
